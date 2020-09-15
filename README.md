@@ -48,9 +48,17 @@
 
 <details>
   <summary>:zap: Github Stats</summary>
-
   <img align="left" alt="hasu234's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hasu234&show_icons=true&theme=radical&count_private=true&hide_border=true" />
+</details>
 
+<details>
+  <summary>:zap: Repo Card</summary>
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hasu234&repo=github-readme-stats&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+
+<details>
+  <summary>:zap: Most Used Language</summary>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasu234&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </details>
 
 [twitter]: https://twitter.com/last_train_23
