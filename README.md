@@ -50,7 +50,6 @@
 <a href="https://github.com/hasu234">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hasu234&show_icons=true&include_all_commits=true&theme=radical" alt="hasu234's github stats" />
 </a>
-<br />
 
 <a href="https://github.com/hasu234">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
