@@ -45,21 +45,38 @@
 <!--END_SECTION:activity-->
 
 </details>
+<br />
+<br />
 
+<a href="https://github.com/hasu234">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=hasu234&show_icons=true&include_all_commits=true&theme=radical" alt="hasu234's github stats" />
+</a>
+<br />
+
+<a href="https://github.com/hasu234">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasu234&layout=compact&theme=radical" />
+</a>
+<br />
+<a href="https://github.com/hasu234">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hasu234&repo=github-readme-stats&theme=radical" />
+</a>    
+
+<!--
 <details>
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="hasu234's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hasu234&show_icons=true&theme=radical&count_private=true&hide_border=true" />
 </details>
-
 <details>
   <summary>:zap: Repo Card</summary>
   [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hasu234&repo=github-readme-stats&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 </details>
-
 <details>
   <summary>:zap: Most Used Language</summary>
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasu234&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </details>
+-->
 
 [twitter]: https://twitter.com/last_train_23
 [instagram]: https://www.instagram.com/last.train.23
