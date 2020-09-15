@@ -58,12 +58,7 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasu234&layout=compact&theme=radical" />
 </a>
-<br />
-<br />
-<a href="https://github.com/hasu234">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hasu234&repo=github-readme-stats&theme=radical" />
-</a>    
+ 
 
 <!--
 <details>
