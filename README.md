@@ -64,11 +64,12 @@
 </details>
 <details>
   <summary>:zap: Repo Card</summary>
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hasu234&repo=github-readme-stats&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
+  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hasu234&repo=github-readme-stats&theme=algolia)](https://hasu234.github.io/)
 </details>
+[![hasu234's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hasu234&theme=vue-dark)](https://hasu234.github.io/)
 <details>
   <summary>:zap: Most Used Language</summary>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasu234&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasu234&layout=compact)](https://hasu234.github.io/)
 </details>
 -->
 
