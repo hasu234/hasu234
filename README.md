@@ -55,7 +55,10 @@
 <a href="https://github.com/hasu234">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasu234&theme=radical" />
 </a>
- 
+ <a href="https://github.com/hasu234">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=hasu" /> 
+  <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hasu)](https://github.com/anuraghazra/github-readme-stats)-->
+</a>
 
 <!--
 <details>
