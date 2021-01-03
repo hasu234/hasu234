@@ -58,9 +58,7 @@
 <br />
 <a href="https://github.com/hasu234">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=hasuu234&theme=radical" />
-  <img src="https://github.com/hasu234/hasu234/blob/master/codeStats.svg" alt="My Coding Activity/>
 </a>
-<!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hasuu234)](https://github.com/anuraghazra/github-readme-stats)-->
 
 <!--
 <details>
