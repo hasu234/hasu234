@@ -57,7 +57,7 @@
 </a>
 <br />
 <a href="https://github.com/hasu234">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=hasu234" alt="hasu234's wakatime stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=hasuu234" alt="hasu234's wakatime stats"/>
   <!--[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hasu)](https://github.com/anuraghazra/github-readme-stats)-->
 </a>
 
