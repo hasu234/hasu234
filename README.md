@@ -55,10 +55,7 @@
 <a href="https://github.com/hasu234">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasu234&theme=radical" alt="hasu234's most used languages" />
 </a>
-<br />
-<a href="https://github.com/hasu234">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=hasuu234&theme=radical" />
-</a>
+
 
 <!--START_SECTION:waka-->
 ```text
