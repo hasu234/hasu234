@@ -1,8 +1,5 @@
 # Hi! I am Hasmot Ali but you can call me Hasu 👋
-<!--
-[![Twitter Follow](https://img.shields.io/twitter/follow/last_train_23?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhasu234&screen_name=hasu234)
-[![Linkedin: hasmot-ali-hasu-29327b152](https://img.shields.io/badge/-HasmotAliHasu-gray?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hasmot-ali-hasu-29327b152/)](https://www.linkedin.com/in/hasmot-ali-hasu-29327b152/)
--->
+
 
 ## I'm a Student, Researcher and Dreamers!
 
@@ -35,28 +32,17 @@
 
 ---
 
-<!--
-<summary>:zap: Recent Github Activity</summary>
--->
-<!--START_SECTION:activity-->
-<!--
-1. ❗️ Closed issue [#1](https://github.com//hasu234/hasu234-vscode-theme/issues/1) in [hasu234/hasu234-vscode-theme](https://github.com//hasu234/hasu234-vscode-theme)
-2. 🎉 Merged PR [#2](https://github.com//hasu234/hasu234-vscode-theme/pull/2) in [hasu234/hasu234-vscode-theme](https://github.com//hasu234/hasu234-vscode-theme)
-3. 🗣 Commented on [#1](https://github.com//hasu234/hasu234-vscode-theme/issues/1) in [hasu234/hasu234-vscode-theme](https://github.com//hasu234/hasu234-vscode-theme)
-4. 💪 Opened PR [#6](https://github.com//colbyfayock/50-projects-for-react-and-the-static-web/pull/6) in [colbyfayock/50-projects-for-react-and-the-static-web](https://github.com//colbyfayock/50-projects-for-react-and-the-static-web)
-5. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
--->
-<!--END_SECTION:activity-->
 
 <a href="https://github.com/hasu234">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hasu234&count_private=true&show_icons=true&include_all_commits=true&theme=radical" alt="hasu234's github stats" />
 </a>
 <br />
+
 <a href="https://github.com/hasu234">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasu234&theme=radical" alt="hasu234's most used languages" />
 </a>
 
-
+---
 <!--START_SECTION:waka-->
 ```text
 Week: 27 December, 2020 - 03 January, 2021
@@ -67,22 +53,7 @@ CSV      1 min           ▒░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-<!--
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img align="left" alt="hasu234's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hasu234&show_icons=true&theme=radical&count_private=true&hide_border=true" />
-</details>
-<details>
-  <summary>:zap: Repo Card</summary>
-  [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=hasu234&repo=github-readme-stats&theme=algolia)](https://hasu234.github.io/)
-</details>
-[![hasu234's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hasu234&theme=vue-dark)](https://hasu234.github.io/)
-<details>
-  <summary>:zap: Most Used Language</summary>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasu234&layout=compact)](https://hasu234.github.io/)
-</details>
--->
-
+---
 [twitter]: https://twitter.com/last_train_23
 [instagram]: https://www.instagram.com/last.train.23
 [linkedin]: https://www.linkedin.com/in/hasmot-ali-hasu-29327b152/
