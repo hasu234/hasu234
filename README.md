@@ -60,6 +60,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=hasuu234&theme=radical" />
 </a>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 <!--
 <details>
   <summary>:zap: Github Stats</summary>
