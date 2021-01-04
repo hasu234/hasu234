@@ -59,6 +59,8 @@
 
 <!--START_SECTION:waka-->
 ```text
+Week: 27 December, 2020 - 03 January, 2021
+
 Other    1 hr 13 mins    ██████████████████████▓░░   90.38 % 
 Python   6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
 CSV      1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
