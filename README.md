@@ -32,7 +32,6 @@
 
 ---
 
-
 <a href="https://github.com/hasu234">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=hasu234&count_private=true&show_icons=true&include_all_commits=true&theme=radical" alt="hasu234's github stats" />
 </a>
@@ -47,7 +46,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=hasuu234" alt="hasu234's most used languages" />
 </a>
 -->
-
 
 ---
 <!--START_SECTION:waka-->
