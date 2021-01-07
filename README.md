@@ -57,7 +57,6 @@ Python   33 mins         ████░░░░░░░░░░░░░░�
 CSV      1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 ```
 <!--END_SECTION:waka-->
-
 ---
 [twitter]: https://twitter.com/last_train_23
 [instagram]: https://www.instagram.com/last.train.23
