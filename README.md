@@ -50,7 +50,7 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 30 December, 2020 - 06 January, 2021
+Week: 31 December, 2020 - 07 January, 2021
 
 Other    3 hrs 4 mins    █████████████████████░░░░   84.06 % 
 Python   33 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
