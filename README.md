@@ -53,6 +53,7 @@ Other   1 min           ▒░░░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 ---
+
 [twitter]: https://twitter.com/last_train_23
 [instagram]: https://www.instagram.com/last.train.23
 [linkedin]: https://www.linkedin.com/in/hasmot-ali-hasu-29327b152/
