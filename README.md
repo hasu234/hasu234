@@ -45,9 +45,9 @@
 ---
 <!--START_SECTION:waka-->
 ```text
-Week: 09 January, 2021 - 16 January, 2021
+Week: 10 January, 2021 - 17 January, 2021
 
-HTML    8 mins          ███████████████████████▓░   94.10 % 
+Python   4 mins          ████████████████████░░░░░   79.82 % 
 ```
 <!--END_SECTION:waka-->
 ---
