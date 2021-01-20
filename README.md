@@ -1,6 +1,5 @@
 # Hi! I am Hasmot Ali but you can call me Hasu 👋
 
-
 ## I'm a Student, Researcher and Dreamer!
 
 - 🔭 I’m currently running student and working on a Speech Processing Technology!
