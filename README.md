@@ -7,6 +7,7 @@
 - 👯 I’m looking to collaborate with other Bengali Researchers!
 - ⚡ Fun fact: I love to read, think and walk!
 
+
 ### Connect with me:
 
 [<img align="left" alt="hasu234 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
