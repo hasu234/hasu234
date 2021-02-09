@@ -5,7 +5,7 @@
 - 🔭 I’m currently running student and working on a Speech Processing Technology!
 - 🌱 I love to learn new things!
 - 👯 I’m looking to collaborate with other Bengali Researchers!
-- ⚡ Fun fact: I love to read, think and walk!
+- ⚡ I love to read, think and walk!
 
 
 ### Connect with me:
