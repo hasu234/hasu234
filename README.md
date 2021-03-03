@@ -42,10 +42,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 22 February, 2021 - 01 March, 2021
+Week: 23 February, 2021 - 02 March, 2021
 
-Other   1 hr 22 mins    █████████████████▓░░░░░░░   70.39 % 
-CSV     34 mins         ███████▒░░░░░░░░░░░░░░░░░   29.61 % 
+Other   1 hr 39 mins    ██████████████████▓░░░░░░   74.04 % 
+CSV     34 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.96 % 
 ```
 <!--END_SECTION:waka-->
 ---
