@@ -1,4 +1,5 @@
-# Hi! I am Hasu 👋
+<div align="center"> # Hi! I am Hasu 👋 </div>
+
 
 
 ## I'm a Student, Researcher and Dreamer!
