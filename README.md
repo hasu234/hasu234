@@ -38,6 +38,10 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasu234&theme=radical&layout=compact" alt="hasu234's most used languages" />
 </a>
 
+<br />
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=h35ef3645wcpygnf3zmez7zbd&width=500)
+
 ---
 
 <!--START_SECTION:waka-->
