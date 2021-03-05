@@ -1,4 +1,4 @@
->>>>>>>>>>>>>>># Hi! I am Hasu 👋
+# Hi! I am Hasu 👋
 
 ## I'm a Student, Researcher and Dreamer!
 
