@@ -40,7 +40,9 @@
 
 <br />
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=h35ef3645wcpygnf3zmez7zbd&width=500)
+---
+
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=h35ef3645wcpygnf3zmez7zbd&width=500&count=3)
 
 ---
 
