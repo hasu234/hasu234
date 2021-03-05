@@ -1,4 +1,5 @@
-# Hi! I am Hasmot Ali but you can call me Hasu 👋
+# Hi! I am Hasu 👋
+
 
 ## I'm a Student, Researcher and Dreamer!
 
