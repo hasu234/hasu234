@@ -35,7 +35,7 @@
 <br />
 
 <a href="https://github.com/hasu234">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasu234&theme=radical&layout=compact&width=500" alt="hasu234's most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasu234&theme=radical&layout=compact" alt="hasu234's most used languages" />
 </a>
 
 <br />
