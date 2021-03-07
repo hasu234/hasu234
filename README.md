@@ -48,10 +48,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 26 February, 2021 - 05 March, 2021
+Week: 27 February, 2021 - 06 March, 2021
 
-Other    3 hrs 29 mins   ████████████████████████▒   96.95 % 
-Python   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
+Other    3 hrs 29 mins   ████████████████████████▒   97.00 % 
+Python   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.90 % 
 ```
 <!--END_SECTION:waka-->
 ---
