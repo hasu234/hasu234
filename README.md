@@ -48,10 +48,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 March, 2021 - 08 March, 2021
+Week: 02 March, 2021 - 09 March, 2021
 
-Other    5 hrs 10 mins   ████████████████████████▒   97.96 % 
-Python   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Other    4 hrs 51 mins   ████████████████████████▒   97.83 % 
+Python   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 ```
 <!--END_SECTION:waka-->
 ---
