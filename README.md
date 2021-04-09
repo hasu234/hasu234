@@ -48,10 +48,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 March, 2021 - 07 April, 2021
+Week: 01 April, 2021 - 08 April, 2021
 
-Other    1 hr 50 mins    ████████████████████▓░░░░   82.52 % 
-CSV      23 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.48 % 
+Other    1 hr 12 mins    ███████████████████▒░░░░░   77.23 % 
+CSV      21 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.77 % 
 ```
 <!--END_SECTION:waka-->
 ---
