@@ -51,7 +51,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 23 May, 2021 - 30 May, 2021
+
+Other   2 hrs 55 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 ---
