@@ -1,6 +1,6 @@
 # Hi! I am Hasu 👋
 
-## I'm a Student, Researcher and Dreamer!
+## I'm a Researcher and Dreamer!
 
 - 🔭 I’m currently running student and working on a Speech Processing Technology!
 - 🌱 I love to learn new things!
@@ -13,6 +13,7 @@
 [<img align="left" alt="hasu234 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="hasu234 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 <br />
+
 
 ### Languages and Tools:
 
