@@ -52,11 +52,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 July, 2021 - 20 July, 2021
-
-Python   26 mins         █████████████▓░░░░░░░░░░░   54.21 % 
-Other    17 mins         █████████░░░░░░░░░░░░░░░░   36.52 % 
-CSV      4 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 ---
