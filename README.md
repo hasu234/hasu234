@@ -57,7 +57,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 11 September, 2021 - 17 September, 2021
+
+Other   1 hr 15 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 ---
