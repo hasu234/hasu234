@@ -57,10 +57,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 12 October, 2021 - 18 October, 2021
+Week: 13 October, 2021 - 19 October, 2021
 
-Other   1 hr 37 mins    ██████████████▓░░░░░░░░░░   59.19 % 
-CSV     1 hr 7 mins     ██████████▒░░░░░░░░░░░░░░   40.81 % 
+Other   1 hr 52 mins    ███████████████▒░░░░░░░░░   61.80 % 
+CSV     1 hr 9 mins     █████████▓░░░░░░░░░░░░░░░   38.20 % 
 ```
 <!--END_SECTION:waka-->
 ---
