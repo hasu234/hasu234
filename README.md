@@ -57,7 +57,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 October, 2021 - 03 November, 2021
+Week: 29 October, 2021 - 04 November, 2021
 
 Other   2 hrs 33 mins   ███████████████████████░░   91.94 % 
 CSV     13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
