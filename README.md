@@ -57,10 +57,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 31 October, 2021 - 06 November, 2021
+Week: 01 November, 2021 - 07 November, 2021
 
-Other   1 hr 13 mins    ███████████████████▓░░░░░   78.56 % 
-CSV     19 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.44 % 
+CSV     19 mins         ████████████████▓░░░░░░░░   67.31 % 
+Other   9 mins          ████████▒░░░░░░░░░░░░░░░░   32.69 % 
 ```
 <!--END_SECTION:waka-->
 ---
