@@ -57,9 +57,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 05 November, 2021 - 11 November, 2021
-
-CSV     14 mins         ████████████████████████▓   98.98 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 ---
