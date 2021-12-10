@@ -57,9 +57,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 December, 2021 - 08 December, 2021
+Week: 03 December, 2021 - 09 December, 2021
 
-Other   54 mins         █████████████████████████   100.00 % 
+Other   1 hr 20 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 ---
