@@ -57,10 +57,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 20 December, 2021 - 26 December, 2021
+Week: 21 December, 2021 - 27 December, 2021
 
-Python   27 mins         ██████████████████████▓░░   90.39 % 
-JSON     2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Python   27 mins         ██████████████████░░░░░░░   72.06 % 
+Other    7 mins          █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
+JSON     2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
 ```
 <!--END_SECTION:waka-->
 ---
