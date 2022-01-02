@@ -57,7 +57,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 December, 2021 - 31 December, 2021
+Week: 26 December, 2021 - 01 January, 2022
 
 Other   2 hrs 16 mins   █████████████████████████   100.00 % 
 ```
