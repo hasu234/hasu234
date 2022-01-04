@@ -57,9 +57,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 December, 2021 - 02 January, 2022
+Week: 28 December, 2021 - 03 January, 2022
 
-Other   2 hrs 16 mins   █████████████████████████   100.00 % 
+Other   2 hrs 8 mins    █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 ---
