@@ -57,9 +57,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 January, 2022 - 09 January, 2022
+Week: 04 January, 2022 - 10 January, 2022
 
-Other   4 hrs 6 mins    █████████████████████████   100.00 % 
+Other   7 hrs 26 mins   █████████████████████████   100.00 % 
 ```
 <!--END_SECTION:waka-->
 ---
