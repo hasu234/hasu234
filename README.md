@@ -57,10 +57,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-Week: 14 February, 2022 - 20 February, 2022
+From: 14 February, 2022 - To: 21 February, 2022
 
-Other   4 hrs 3 mins    █████████████████████████   99.50 % 
-CSV     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Other   4 hrs 26 mins   █████████████████████████   99.54 % 
+CSV     1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 % 
 ```
 <!--END_SECTION:waka-->
 ---
