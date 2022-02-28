@@ -56,11 +56,13 @@
 
 
 <!--START_SECTION:waka-->
-```text
-From: 17 February, 2022 - To: 24 February, 2022
 
-Other   3 hrs 53 mins   █████████████████████████   100.00 % 
+```text
+From: 20 February 2022 - To: 27 February 2022
+
+Other   3 hrs 43 mins   █████████████████████████   100.00 %
 ```
+
 <!--END_SECTION:waka-->
 ---
 
