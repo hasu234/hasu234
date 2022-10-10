@@ -58,7 +58,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 02 October 2022 - To: 09 October 2022
+
+Python   20 mins         █████████████▒░░░░░░░░░░░   53.51 %
+Other    17 mins         ███████████▓░░░░░░░░░░░░░   46.49 %
 ```
 
 <!--END_SECTION:waka-->
