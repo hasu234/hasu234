@@ -36,10 +36,10 @@
 ---
 
 <p align="center">
-  <img align="center" width = "360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasu234&langs_count=8&layout=compact&theme=vue-dark&hide_border=true"/>
+  <img align="center" width = "360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasu234&langs_count=8&layout=compact&theme=vue-dark&hide_border=false"/>
   <div align="center">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=hasu234&theme=vue-dark&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" />
-    <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasu234&theme=vue-dark&hide_border=true" />
+    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=hasu234&theme=vue-dark&count_private=true&show_icons=true&include_all_commits=true&hide_border=false" />
+    <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasu234&theme=vue-dark&hide_border=false" />
   </div>
 </p>
 
