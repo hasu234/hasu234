@@ -1,6 +1,6 @@
 # Hi! I am Hasu 👋 <img align="right" src="https://gpvc.arturio.dev/hasu234"/> 
 
-## I'm a Researcher and Dreamer!
+## I'm a Student!
 
 - 🔭 I’m currently working on different Machine Learning application.
 - 🌱 I love to learn new things!
@@ -12,26 +12,21 @@
 
 ### Connect with me:
 
-[<img align="left" alt="hasu234 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="hasu234 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="hasu234 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[<img align="left" alt="hasu234 | Twitter" width="29px" src="https://emojis.slackmojis.com/emojis/images/1643514782/7926/twitter.png?1643514782" />][twitter]
+[<img align="left" alt="hasu234 | LinkedIn" width="29px" src="https://emojis.slackmojis.com/emojis/images/1643514111/711/linkedin.png?1643514111" />][linkedin]
+
 <br />
-
-
-
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
-<br />
+<p align="center">
+  <img width="29px" alt="GitHub" title="GitHub" loading="lazy" src="https://emojis.slackmojis.com/emojis/images/1651007185/58276/github.png?1651007185">
+  &nbsp;
+  <img width="29px" alt="Visual Studio Code" title="Visual Studio Code" loading="lazy" src="https://emojis.slackmojis.com/emojis/images/1643514881/8944/vscode.png?1643514881">
+  &nbsp;
+</p>
 
 ---
 
