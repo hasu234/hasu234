@@ -1,4 +1,4 @@
-# Hi! I am Hasu 👋
+# Hi! I am Hasu 👋 <img align="right" src="https://gpvc.arturio.dev/hasu234"/> 
 
 ## I'm a Researcher and Dreamer!
 
@@ -36,10 +36,10 @@
 ---
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasu234&langs_count=8&layout=compact&theme=radical&hide_border=true"/>
+  <img align="center" width = "360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasu234&langs_count=8&layout=compact&theme=vue-dark&hide_border=true"/>
   <div align="center">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=hasu234&theme=radical&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" />
-    <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasu234&theme=radical&hide_border=true" />
+    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=hasu234&theme=vue-dark&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" />
+    <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasu234&theme=vue-dark&hide_border=true" />
   </div>
 </p>
 
