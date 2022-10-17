@@ -35,25 +35,15 @@
 
 ---
 
-<a href="https://github.com/hasu234">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hasu234&count_private=true&show_icons=true&include_all_commits=true&theme=radical" alt="hasu234's github stats" />
-</a>
-<br />
-
-<a href="https://github.com/hasu234">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasu234&theme=radical&layout=compact" alt="hasu234's most used languages" />
-</a>
-
-<br />
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasu234&langs_count=8&layout=compact&theme=radical&hide_border=true"/>
+  <div align="center">
+    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=hasu234&theme=radical&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" />
+    <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasu234&theme=radical&hide_border=true" />
+  </div>
+</p>
 
 ---
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=h35ef3645wcpygnf3zmez7zbd&width=500&count=3)
-
----
-
-
-
 
 <!--START_SECTION:waka-->
 
