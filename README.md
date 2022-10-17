@@ -1,4 +1,4 @@
-# Hi! I am Hasu 👋 <img align="right" src="https://gpvc.arturio.dev/hasu234"/> 
+# <img align="left" width="40px" src="https://emojis.slackmojis.com/emojis/images/1646416505/55210/jboy.png?1646416505">  Hi! I am Hasu 👋 <img align="right" src="https://gpvc.arturio.dev/hasu234"/> 
 
 ## I'm a Student!
 
