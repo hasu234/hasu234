@@ -43,13 +43,14 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 09 October 2022 - To: 16 October 2022
+From: 10 October 2022 - To: 17 October 2022
 
-Python       7 hrs 31 mins   ███████████████████▓░░░░░   78.40 %
-JSON         1 hr 30 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.64 %
-HTML         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-JavaScript   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-Other        6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Python       6 hrs 59 mins   ███████████████▒░░░░░░░░░   61.79 %
+JSON         2 hrs 20 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.68 %
+HTML         59 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
+Markdown     27 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+JavaScript   15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+Git          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
 ```
 
 <!--END_SECTION:waka-->
