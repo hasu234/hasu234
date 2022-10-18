@@ -8,8 +8,6 @@
 - ⚡ I love to read, think and walk!
 
 
-
-
 ### Connect with me:
 
 
@@ -20,18 +18,24 @@
 
 ### Languages and Tools:
 
-
-<p align="center">
-  <img width="29px" alt="GitHub" title="GitHub" loading="lazy" src="https://emojis.slackmojis.com/emojis/images/1651007185/58276/github.png?1651007185">
-  &nbsp;
-  <img width="29px" alt="Visual Studio Code" title="Visual Studio Code" loading="lazy" src="https://emojis.slackmojis.com/emojis/images/1643514881/8944/vscode.png?1643514881">
-  &nbsp;
-</p>
+<div>
+  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="R" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
+  <img align="center" alt="C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="pandas" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
+  <img align="center" alt="numpy" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+  <img align="center" alt="matplotlib" height="40" width="40"src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
+  <img align="center" alt="seaborn" height="50" width="50" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg">
+</div>
 
 ---
 
-<p align="center">
-  <img align="center" width = "360px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasu234&langs_count=8&layout=compact&theme=vue-dark&hide_border=false"/>
+<p>
+  <div align="center">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&animation=default&layout=default&font=Redressed" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasu234&langs_count=8&layout=compact&theme=vue-dark&hide_border=false"/>
+  </div>
+  
   <div align="center">
     <img width="47%" src="https://github-readme-stats.vercel.app/api?username=hasu234&theme=vue-dark&count_private=true&show_icons=true&include_all_commits=true&hide_border=false" />
     <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasu234&theme=vue-dark&hide_border=false" />
