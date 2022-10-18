@@ -20,7 +20,6 @@
 
 <div>
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="R" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
   <img align="center" alt="C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="pandas" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="numpy" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
@@ -30,17 +29,17 @@
 
 ---
 
-<p>
+
   <div align="center">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&animation=default&layout=default&font=Redressed" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasu234&langs_count=8&layout=compact&theme=vue-dark&hide_border=false"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasu234&langs_count=8&layout=compact&theme=nord&hide_border=true" />
   </div>
-  
+
   <div align="center">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=hasu234&theme=vue-dark&count_private=true&show_icons=true&include_all_commits=true&hide_border=false" />
-    <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasu234&theme=vue-dark&hide_border=false" />
+    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=hasu234&theme=nord&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" />
+    <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasu234&theme=nord&hide_border=true" />
   </div>
-</p>
+
 
 ---
 
