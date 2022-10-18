@@ -8,38 +8,41 @@
 - ⚡ I love to read, think and walk!
 
 
-### Connect with me:
+## Connect with me
 
 
-[<img align="left" alt="hasu234 | Twitter" width="29px" src="https://emojis.slackmojis.com/emojis/images/1643514782/7926/twitter.png?1643514782" />][twitter]
-[<img align="left" alt="hasu234 | LinkedIn" width="29px" src="https://emojis.slackmojis.com/emojis/images/1643514111/711/linkedin.png?1643514111" />][linkedin]
+[<img align="center" alt="hasu234 | Twitter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />][twitter]
+[<img align="center" alt="hasu234 | LinkedIn" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
 
-<br />
 
-### Languages and Tools:
+## Languages and Tools
 
-<div>
+<div align="left">
+  
+  #### Language:
   <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
+  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+  
+  #### Tools:
   <img align="center" alt="pandas" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
   <img align="center" alt="numpy" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
+  <img align="center" alt="seaborn" height="40" width="50" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg">
   <img align="center" alt="matplotlib" height="40" width="40"src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
-  <img align="center" alt="seaborn" height="50" width="50" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg">
 </div>
 
 ---
 
 
-  <div align="center">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&animation=default&layout=default&font=Redressed" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasu234&langs_count=8&layout=compact&theme=nord&hide_border=true" />
-  </div>
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&animation=default&layout=default&font=Redressed" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasu234&langs_count=8&layout=compact&theme=nord&hide_border=true" />
+</div>
 
-  <div align="center">
-    <img width="47%" src="https://github-readme-stats.vercel.app/api?username=hasu234&theme=nord&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" />
-    <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasu234&theme=nord&hide_border=true" />
-  </div>
-
+<div align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=hasu234&theme=nord&count_private=true&show_icons=true&include_all_commits=true&hide_border=true" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasu234&theme=nord&hide_border=true" />
+</div>
 
 ---
 
@@ -60,5 +63,4 @@ Git          7 mins          ▒░░░░░░░░░░░░░░░░
 ---
 
 [twitter]: https://twitter.com/last_train_23
-[instagram]: https://www.instagram.com/last.train.23
 [linkedin]: https://www.linkedin.com/in/hasmot-ali-hasu-29327b152/
