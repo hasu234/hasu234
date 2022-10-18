@@ -35,7 +35,6 @@
 
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord&animation=default&layout=default&font=Redressed" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasu234&langs_count=8&layout=compact&theme=nord&hide_border=true" />
 </div>
 
