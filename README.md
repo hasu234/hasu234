@@ -48,17 +48,22 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 October 2022 - To: 22 October 2022
+                              From: 15 October 2022 - To: 22 October 2022
 
-Python       3 hrs 8 mins    █████████▓░░░░░░░░░░░░░░░   38.14 %
-Text         1 hr 35 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.24 %
-HTML         1 hr 6 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 %
-JSON         54 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 %
-Markdown     34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
-Git          16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+                              Python       3 hrs 8 mins    █████████▓░░░░░░░░░░░░░░░   38.14 %
+                              Text         1 hr 35 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.24 %
+                              HTML         1 hr 6 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 %
+                              JSON         54 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 %
+                              Markdown     34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
+                              Git          16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
 ```
 
 ## <!--END_SECTION:waka-->
+
+
+<div align="center">
+  <img align="right" width="85%" src="https://github-readme-quotes.herokuapp.com/quote?theme=vue-dark" />
+</div>
 
 [twitter]: https://twitter.com/last_train_23
 [linkedin]: https://www.linkedin.com/in/hasmot-ali-hasu-29327b152/
