@@ -1,4 +1,4 @@
-# Hi! I am Hasu 👋 <img align="right" src="https://gpvc.arturio.dev/hasu234"/> 
+# Hi! I am Hasu 👋 <img align="right" src="https://gpvc.arturio.dev/hasu234"/>
 
 ## I'm a Student!
 
@@ -7,15 +7,12 @@
 - 👯 I’m looking to collaborate with other Bengali Researchers!
 - ⚡ I love to read, think and walk!
 
-
 ## Connect with me
 
 <div align="center">
 
-  [<img align="center" alt="Twitter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg">][twitter]
-  [<img align="center" alt="LinkedIn" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
-  
-  
+[<img align="center" alt="Twitter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg">][twitter]
+[<img align="center" alt="LinkedIn" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
 
 </div>
 
@@ -36,7 +33,6 @@
 </div>
 
 ---
-
 
 <div align="center">
   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasu234&langs_count=8&layout=compact&theme=vue-dark&hide_border=true" />
@@ -62,8 +58,7 @@ Markdown     34 mins         █▓░░░░░░░░░░░░░░░
 Git          16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
 ```
 
-<!--END_SECTION:waka-->
----
+## <!--END_SECTION:waka-->
 
 [twitter]: https://twitter.com/last_train_23
 [linkedin]: https://www.linkedin.com/in/hasmot-ali-hasu-29327b152/
