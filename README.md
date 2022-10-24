@@ -48,17 +48,17 @@
 <!--START_SECTION:waka-->
 
 ```text
-                        From: 15 October 2022 - To: 22 October 2022
+From: 16 October 2022 - To: 23 October 2022
 
-                        Python       3 hrs 8 mins    █████████▓░░░░░░░░░░░░░░░   38.14 %
-                        Text         1 hr 35 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.24 %
-                        HTML         1 hr 6 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 %
-                        JSON         54 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 %
-                        Markdown     34 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
-                        Git          16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+Python       3 hrs 3 mins    █████████░░░░░░░░░░░░░░░░   36.44 %
+Text         1 hr 35 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.90 %
+HTML         1 hr 4 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   12.70 %
+JSON         55 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
+Markdown     50 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
+Git          16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
 ```
 
-## <!--END_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 <div align="center">
