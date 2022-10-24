@@ -60,9 +60,13 @@ Git          16 mins         █░░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+---
+
 <div align="center">
   <img align="right" width="85%" src="https://github-readme-quotes.herokuapp.com/quote?theme=vue-dark" />
 </div>
+
+
 
 [twitter]: https://twitter.com/last_train_23
 [linkedin]: https://www.linkedin.com/in/hasmot-ali-hasu-29327b152/
