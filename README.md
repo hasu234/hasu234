@@ -60,10 +60,11 @@ Other        8 mins          ▓░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 ---
-
+<!---
 <div align="center">
   <img align="right" width="85%" src="https://github-readme-quotes.herokuapp.com/quote?theme=vue-dark" />
 </div>
+-->
 
 
 
