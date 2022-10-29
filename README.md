@@ -56,7 +56,7 @@
   <img align="center" alt="Latex" height="40" width="40" src="https://www.svgrepo.com/show/306324/latex.svg">
   
   <p align="left"><b>Platforms: </b></p>
-  <img align="center" alt="Ubuntu" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg">
+  <img align="center" alt="Ubuntu" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg">
   <img align="center" alt="Windows" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg">
   <img align="center" alt="MacOS" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/22/MacOS_logo_%282017%29.svg">
   <img align="center" alt="Android" height="40" width="40"src="https://cdn.worldvectorlogo.com/logos/android.svg">
