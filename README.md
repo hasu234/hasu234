@@ -92,11 +92,15 @@ Other      4 mins          ▓░░░░░░░░░░░░░░░░�
 
 ---
 
-<!---
 <div align="center">
-  <img align="right" width="85%" src="https://github-readme-quotes.herokuapp.com/quote?theme=vue-dark" />
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord" />
 </div>
--->
+
+<!-- <div align="center">
+  <img src="[https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord](https://github-readme-quotes.herokuapp.com/quote?theme=vue-dark&animation=default&layout=default&font=default)" />
+</div>
+
+![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=vue-dark&animation=default&layout=default&font=default) -->
 
 [twitter]: https://twitter.com/last_train_23
 [linkedin]: https://www.linkedin.com/in/hasmot-ali-hasu-29327b152/
