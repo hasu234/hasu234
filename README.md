@@ -1,10 +1,10 @@
-# Hi! I am Hasu 👋 <img align="right" src="https://gpvc.arturio.dev/hasu234"/>
+<h1 align="center">Hi there 👋 I am Hasu! <img align="right" src="https://gpvc.arturio.dev/hasu234"/> </h1>
 
-## I'm a Student!
+## About Me
 
 - 🔭 I’m currently working on different Machine Learning application.
 - 🌱 I love to learn new things!
-- 👯 I’m looking to collaborate with other Bengali Researchers!
+- 👯 I’m looking to collaborate with other Researchers!
 - ⚡ I love to read, think and walk!
 
 ## Connect with me
