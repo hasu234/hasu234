@@ -81,12 +81,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 November 2022 - To: 13 November 2022
+From: 07 November 2022 - To: 14 November 2022
 
-Text     1 hr 18 mins    ██████████▒░░░░░░░░░░░░░░   40.79 %
-SQL      1 hr 17 mins    ██████████░░░░░░░░░░░░░░░   40.29 %
-Python   30 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.96 %
-Other    5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
+Text     1 hr 18 mins    ██████████░░░░░░░░░░░░░░░   39.36 %
+SQL      1 hr 17 mins    █████████▓░░░░░░░░░░░░░░░   38.88 %
+Python   30 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.41 %
+Other    11 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
 ```
 
 <!--END_SECTION:waka-->
