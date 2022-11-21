@@ -60,8 +60,6 @@
   <img align="center" alt="Windows" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg">
   <img align="center" alt="MacOS" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/22/MacOS_logo_%282017%29.svg">
   <img align="center" alt="Android" height="40" width="40"src="https://cdn.worldvectorlogo.com/logos/android.svg">
-  <img align="center" alt="iOS" height="40" width="40"src="https://upload.wikimedia.org/wikipedia/commons/c/ca/IOS_logo.svg">
-  
   
 </div>
 
