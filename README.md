@@ -2,7 +2,7 @@
 
 ## About Me
 
-- 🔭 I’m currently working on different Machine Learning application.
+- 🔭 I’m currently working on different Machine Learning Application.
 - 🌱 I love to learn new things!
 - 👯 I’m looking to collaborate with other Researchers!
 - ⚡ I love to read, think and walk!
