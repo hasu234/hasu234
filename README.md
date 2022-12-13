@@ -79,12 +79,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 December 2022 - To: 11 December 2022
+From: 05 December 2022 - To: 12 December 2022
 
-Python   1 hr 32 mins    ██████████████████████▒░░   89.66 %
-TeX      5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
-HTML     3 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 %
-Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.89 %
+Python   4 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
