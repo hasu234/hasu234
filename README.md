@@ -79,9 +79,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 December 2022 - To: 12 December 2022
+From: 06 December 2022 - To: 13 December 2022
 
-Python   4 mins          █████████████████████████   100.00 %
+Python   22 mins         █████████████████████░░░░   84.60 %
+Other    4 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.40 %
 ```
 
 <!--END_SECTION:waka-->
