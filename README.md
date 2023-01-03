@@ -79,13 +79,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 24 December 2022 - To: 31 December 2022
+From: 26 December 2022 - To: 02 January 2023
 
-Python     1 hr 18 mins    ██████████████████████▓░░   90.25 %
-HTML       7 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.92 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
-Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-TOML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Python   2 mins          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
