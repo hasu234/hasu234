@@ -79,10 +79,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 January 2023 - To: 11 January 2023
+From: 05 January 2023 - To: 12 January 2023
 
-Python   1 hr 51 mins    ████████████████████████░   95.99 %
-Other    3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.60 %
+Python   1 hr 32 mins    ████████████████████████▒   97.46 %
+Other    2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.37 %
 ```
 
 <!--END_SECTION:waka-->
