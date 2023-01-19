@@ -79,7 +79,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 11 January 2023 - To: 18 January 2023
+
+Python   3 hrs 7 mins    █████████████████████████   99.67 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
 ```
 
 <!--END_SECTION:waka-->
