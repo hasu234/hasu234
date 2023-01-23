@@ -49,6 +49,8 @@
   <img align="center" alt="GitHub" height="40" width="40"src="https://www.svgrepo.com/show/217753/github.svg">
   <img align="center" alt="VSCode" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
   <img align="center" alt="Docker" height="40" width="40"src="https://cdn.worldvectorlogo.com/logos/docker.svg">
+  <img align="center" alt="Flask" height="40" width="40"src="https://brandeps.com/logo-download/F/Flask-logo-vector-01.svg">
+  <img align="center" alt="FastAPI" height="40" width="40"src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg">
   <img align="center" alt="Jupyter" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg">
   <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg">
   <img align="center" alt="Tableau" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg">
