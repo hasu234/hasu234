@@ -82,11 +82,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 February 2023 - To: 12 February 2023
+From: 06 February 2023 - To: 13 February 2023
 
-Python   1 hr 4 mins     ██████████████████████░░░   88.65 %
-INI      7 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.31 %
-Other    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
