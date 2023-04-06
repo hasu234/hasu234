@@ -82,11 +82,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 28 March 2023 - To: 04 April 2023
+From: 29 March 2023 - To: 05 April 2023
 
-Python       22 mins         █████████████░░░░░░░░░░░░   52.58 %
-JSON         11 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.52 %
-Other        8 mins          █████░░░░░░░░░░░░░░░░░░░░   19.94 %
+Other    8 mins          ████████████████████████▒   97.29 %
 ```
 
 <!--END_SECTION:waka-->
