@@ -82,10 +82,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 April 2023 - To: 08 April 2023
+From: 02 April 2023 - To: 09 April 2023
 
-Java     45 mins         █████████████████████░░░░   83.80 %
-Other    8 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.76 %
+Java     1 hr 29 mins    █████████████▓░░░░░░░░░░░   54.10 %
+Python   56 mins         ████████▓░░░░░░░░░░░░░░░░   34.04 %
+JSON     10 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.63 %
+Other    8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.24 %
 ```
 
 <!--END_SECTION:waka-->
