@@ -82,11 +82,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 April 2023 - To: 23 April 2023
+From: 17 April 2023 - To: 24 April 2023
 
-Python     59 mins         ████████████████░░░░░░░░░   64.58 %
-Bash       21 mins         ██████░░░░░░░░░░░░░░░░░░░   23.57 %
-Other      5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
+Bash     21 mins         ██████████████████▓░░░░░░   74.05 %
+Java     6 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.11 %
+Other    0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
 ```
 
 <!--END_SECTION:waka-->
