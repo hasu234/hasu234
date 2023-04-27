@@ -82,10 +82,11 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 April 2023 - To: 25 April 2023
+From: 19 April 2023 - To: 26 April 2023
 
-Bash   21 mins         █████████████████████████   99.59 %
-JSON   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Bash     21 mins         ████████████████▒░░░░░░░░   65.74 %
+Python   11 mins         ████████▒░░░░░░░░░░░░░░░░   33.99 %
+JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
