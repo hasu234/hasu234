@@ -82,7 +82,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 May 2023 - To: 12 May 2023
+From: 06 May 2023 - To: 13 May 2023
 
 Python     4 hrs 32 mins   ██████████████░░░░░░░░░░░   55.78 %
 Text       2 hrs 53 mins   █████████░░░░░░░░░░░░░░░░   35.49 %
