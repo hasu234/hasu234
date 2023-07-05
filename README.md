@@ -2,10 +2,10 @@
 
 ## About Me
 
-- 🔭 I’m currently working as a Machine Learning Engineer.
-- 🌱 I love to learn new things!
-- 👯 I’m looking to collaborate with other Researchers!
-- ⚡ I love to read, think and walk!
+- Working as a Machine Learning Engineer.
+- Former Research Assistant.
+- I’m looking to collaborate with other Researchers!
+- I love to read, think and walk!
 
 ## Connect with me
 
