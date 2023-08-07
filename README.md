@@ -82,9 +82,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 July 2023 - To: 05 August 2023
+From: 30 July 2023 - To: 06 August 2023
 
-Python   37 mins         █████████████████████████   100.00 %
+Python   27 mins         ███████████████████████▒░   92.73 %
+YAML     2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.27 %
 ```
 
 <!--END_SECTION:waka-->
