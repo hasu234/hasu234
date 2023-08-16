@@ -55,7 +55,7 @@
   <img align="center" alt="Jupyter" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg">
   <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg">
   <img align="center" alt="Tableau" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg">
-  <img align="center" alt="Office" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Microsoft_Office_logo_%282019%E2%80%93present%29.svg">
+  <img align="center" alt="Office" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Microsoft_Office_logo_%282013%E2%80%932019%29.svg">
   <img align="center" alt="Latex" height="40" width="40" src="https://www.svgrepo.com/show/306324/latex.svg">
   
   <p align="left"><b>Platforms: </b></p>
