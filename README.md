@@ -82,13 +82,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 August 2023 - To: 04 September 2023
+From: 29 August 2023 - To: 05 September 2023
 
-Assembly       2 hrs 38 mins   ███████▒░░░░░░░░░░░░░░░░░   29.87 %
-Python         2 hrs 17 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.77 %
-JSON           1 hr 49 mins    █████░░░░░░░░░░░░░░░░░░░░   20.60 %
-Ezhil          1 hr 9 mins     ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 %
-GDScript       35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
+Python         3 hrs 37 mins   █████████░░░░░░░░░░░░░░░░   35.52 %
+Assembly       2 hrs 38 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.93 %
+JSON           1 hr 49 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.88 %
+Ezhil          1 hr 9 mins     ██▓░░░░░░░░░░░░░░░░░░░░░░   11.30 %
+GDScript       35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
 ```
 
 <!--END_SECTION:waka-->
