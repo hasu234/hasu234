@@ -82,13 +82,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 September 2023 - To: 10 September 2023
+From: 04 September 2023 - To: 11 September 2023
 
-Python   5 hrs 29 mins   ████████████████████▒░░░░   81.74 %
-Prolog   40 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.93 %
-HTML     15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
-INI      10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.68 %
-JSON     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.15 %
+Python         5 hrs 12 mins   ███████████████████▒░░░░░   76.70 %
+Prolog         42 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.36 %
+ActionScript   16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+HTML           15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 %
+INI            10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
 ```
 
 <!--END_SECTION:waka-->
