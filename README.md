@@ -82,13 +82,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 September 2023 - To: 14 September 2023
+From: 08 September 2023 - To: 15 September 2023
 
-Python         3 hrs 20 mins   █████████████░░░░░░░░░░░░   51.41 %
-JavaScript     1 hr 25 mins    █████▓░░░░░░░░░░░░░░░░░░░   22.02 %
-Prolog         42 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.93 %
-ActionScript   19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.10 %
-HTML           15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 %
+Python         2 hrs 36 mins   ███████████▓░░░░░░░░░░░░░   46.89 %
+JavaScript     2 hrs 17 mins   ██████████▒░░░░░░░░░░░░░░   41.13 %
+ActionScript   19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.98 %
+JSON           10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.27 %
+Markdown       3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 ```
 
 <!--END_SECTION:waka-->
