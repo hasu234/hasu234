@@ -82,7 +82,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 September 2023 - To: 23 September 2023
+From: 17 September 2023 - To: 24 September 2023
 
 JavaScript   8 hrs 49 mins   ████████████████░░░░░░░░░   63.82 %
 Python       3 hrs 19 mins   ██████░░░░░░░░░░░░░░░░░░░   24.07 %
