@@ -1,11 +1,12 @@
-<h1 align="center">Hi there 👋 I am Hasu! <img align="right" src="https://gpvc.arturio.dev/hasu234"/> </h1>
+<h1 align="center">Hi there 👋 I am Hasu! 
+<!--   <img align="right" src="https://gpvc.arturio.dev/hasu234"/> </h1> -->
 
 ## About Me
 
 - Working as a Machine Learning Engineer.
 - Former Research Assistant.
 - I’m looking to collaborate with other Researchers!
-- I love to read, think and walk!
+- I love to read, think, and walk!
 
 ## Connect with me
 
