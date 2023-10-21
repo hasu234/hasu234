@@ -83,13 +83,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 October 2023 - To: 19 October 2023
+From: 13 October 2023 - To: 20 October 2023
 
-Assembly   1 hr 5 mins     █████████████▒░░░░░░░░░░░   53.37 %
-Python     49 mins         ██████████░░░░░░░░░░░░░░░   40.23 %
-Markdown   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-Text       3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-JSON       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+Python     49 mins         █████████████████████▓░░░   86.68 %
+Markdown   3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
+Text       3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.66 %
 ```
 
 <!--END_SECTION:waka-->
