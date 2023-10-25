@@ -83,11 +83,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 16 October 2023 - To: 23 October 2023
+From: 17 October 2023 - To: 24 October 2023
 
-Python     14 mins         ████████████████▒░░░░░░░░   65.10 %
-Markdown   3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.46 %
-Text       3 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.44 %
+Markdown   3 mins          █████████▓░░░░░░░░░░░░░░░   38.97 %
+Text       3 mins          █████████▓░░░░░░░░░░░░░░░   38.92 %
+Python     2 mins          █████▓░░░░░░░░░░░░░░░░░░░   22.11 %
 ```
 
 <!--END_SECTION:waka-->
