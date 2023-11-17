@@ -83,7 +83,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 November 2023 - To: 14 November 2023
+From: 09 November 2023 - To: 16 November 2023
 
 Python   31 mins         ██████████████████████▓░░   90.62 %
 Ezhil    1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
