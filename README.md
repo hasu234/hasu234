@@ -83,10 +83,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 November 2023 - To: 27 November 2023
+From: 21 November 2023 - To: 28 November 2023
 
-Markdown   29 mins         █████████████████████████   99.96 %
-INI        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+Python   8 mins          ████████████████████████▒   96.83 %
+JSON     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.17 %
 ```
 
 <!--END_SECTION:waka-->
