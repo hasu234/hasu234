@@ -83,9 +83,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2023 - To: 02 January 2024
+From: 27 December 2023 - To: 03 January 2024
 
-Python   1 hr 48 mins    █████████████████████████   100.00 %
+Python   2 hrs 6 mins    ██████████████████████▓░░   91.16 %
+JSON     8 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.96 %
+YAML     4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.88 %
 ```
 
 <!--END_SECTION:waka-->
