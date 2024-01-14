@@ -83,7 +83,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 January 2024 - To: 12 January 2024
+From: 06 January 2024 - To: 13 January 2024
 
 Python       5 hrs 56 mins   █████████████████████████   99.35 %
 JSON         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
