@@ -75,7 +75,7 @@
 
 <div align="center">
   <img width="47%" src="https://github-readme-stats.vercel.app/api?username=hasu234&theme=vue-dark&count_private=true&show_icons=true&include_all_commits=true&hide_border=false" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasu234&theme=vue-dark&hide_border=false" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasu234&theme=vue-dark&hide_border=true" />
 </div>
 
 ---
