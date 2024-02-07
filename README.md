@@ -83,13 +83,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 January 2024 - To: 05 February 2024
+From: 30 January 2024 - To: 06 February 2024
 
-Python       13 hrs 57 mins  ████████████████████▒░░░░   81.22 %
-JSON         2 hrs 27 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
-Other        30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.99 %
-SSH Config   11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
-SQL          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 %
+Python       15 hrs 13 mins  █████████████████████▓░░░   87.12 %
+JSON         1 hr 35 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.09 %
+Other        31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+SSH Config   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
+INI          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
