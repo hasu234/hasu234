@@ -83,10 +83,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 March 2024 - To: 27 March 2024
+From: 21 March 2024 - To: 28 March 2024
 
-Python   4 hrs 21 mins   ██████████████████████▓░░   91.26 %
-CSV      24 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.74 %
+Python     4 hrs 21 mins   █████████████████░░░░░░░░   67.77 %
+Markdown   1 hr 39 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.62 %
+CSV        24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.47 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
