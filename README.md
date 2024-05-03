@@ -83,7 +83,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 April 2024 - To: 01 May 2024
+From: 25 April 2024 - To: 02 May 2024
 
 Text    53 mins         █████████████▒░░░░░░░░░░░   53.75 %
 JSON    40 mins         ██████████▒░░░░░░░░░░░░░░   41.26 %
