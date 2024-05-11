@@ -83,10 +83,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 May 2024 - To: 09 May 2024
+From: 03 May 2024 - To: 10 May 2024
 
-Markdown     34 mins         █████████████████▓░░░░░░░   70.46 %
-JavaScript   14 mins         ███████▒░░░░░░░░░░░░░░░░░   29.54 %
+Python       2 hrs 7 mins    █████████████████░░░░░░░░   67.81 %
+Markdown     34 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.60 %
+JavaScript   14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
+JSON         10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 %
 ```
 
 <!--END_SECTION:waka-->
