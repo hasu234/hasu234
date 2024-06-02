@@ -83,7 +83,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 May 2024 - To: 31 May 2024
+From: 25 May 2024 - To: 01 June 2024
 
 Python       1 hr 33 mins    ████████████████▓░░░░░░░░   66.52 %
 SSH Config   39 mins         ███████░░░░░░░░░░░░░░░░░░   28.10 %
