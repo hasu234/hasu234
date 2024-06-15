@@ -83,11 +83,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 June 2024 - To: 13 June 2024
+From: 07 June 2024 - To: 14 June 2024
 
-Python       1 hr 6 mins     ████████████████████████▒   96.99 %
-Other        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
+Python       14 mins         █████████████████████████   99.77 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 %
 ```
 
 <!--END_SECTION:waka-->
