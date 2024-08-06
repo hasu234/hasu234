@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋 I am Hasu! 
+<h1 align="center">Hi there 👋 I am Hasmot! 
 <!--   <img align="right" src="https://gpvc.arturio.dev/hasu234"/> </h1> -->
 
 ## About Me
