@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[<img align="center" alt="Twitter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg">][twitter]
+[<img align="center" alt="Twitter" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/x-2.svg">][twitter]
 [<img align="center" alt="LinkedIn" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />][linkedin]
 [<img align="center" alt="Scholar" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/google-scholar.svg" />][scholar]
 [<img align="center" alt="ORCID" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" />][orcid]
@@ -38,20 +38,20 @@
   <img align="center" alt="ScikitLearn" height="40" width="40"src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
   <img align="center" alt="PyTorch" height="40" width="40"src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg">
   <img align="center" alt="TensorFlow" height="40" width="40"src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg">
+  <img align="center" alt="HuggingFace" height="40" width="40"src="https://cdn.worldvectorlogo.com/logos/huggingface-2.svg">
   
   <p align="left"><b>Web Tools: </b></p>
   <img align="center" alt="HTML" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
   <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
   <img align="center" alt="PHP" height="40" width="40"src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
-  <img align="center" alt="Django" height="40" width="40"src="https://cdn.worldvectorlogo.com/logos/django-community.svg">
+  <img align="center" alt="Django" height="40" width="40"src="https://cdn.worldvectorlogo.com/logos/django.svg">
   
   <p align="left"><b>Others Tools: </b></p>
   <img align="center" alt="Git" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">
   <img align="center" alt="GitHub" height="40" width="40"src="https://www.svgrepo.com/show/217753/github.svg">
   <img align="center" alt="VSCode" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
-  <img align="center" alt="Docker" height="40" width="40"src="https://cdn.worldvectorlogo.com/logos/docker.svg">
-  <img align="center" alt="Flask" height="40" width="40"src="https://www.seekpng.com/png/full/875-8753366_flask-framework-logo-svg.png">
+  <img align="center" alt="Docker" height="40" width="40"src="https://cdn.worldvectorlogo.com/logos/docker-4.svg">
   <img align="center" alt="FastAPI" height="40" width="40"src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg">
   <img align="center" alt="Jupyter" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg">
   <img align="center" alt="MySQL" height="40" width="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
