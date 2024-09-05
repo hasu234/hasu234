@@ -43,7 +43,7 @@
   <img align="center" alt="HTML" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
   <img align="center" alt="CSS" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
   <img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
-  <img align="center" alt="PHP" height="40" width="40"src="https://cdn.worldvectorlogo.com/logos/php-1.svg">
+  <img align="center" alt="PHP" height="40" width="40"src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
   <img align="center" alt="Django" height="40" width="40"src="https://cdn.worldvectorlogo.com/logos/django-community.svg">
   
   <p align="left"><b>Others Tools: </b></p>
@@ -54,7 +54,7 @@
   <img align="center" alt="Flask" height="40" width="40"src="https://www.seekpng.com/png/full/875-8753366_flask-framework-logo-svg.png">
   <img align="center" alt="FastAPI" height="40" width="40"src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg">
   <img align="center" alt="Jupyter" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg">
-  <img align="center" alt="MySQL" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg">
+  <img align="center" alt="MySQL" height="40" width="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
   <img align="center" alt="Tableau" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg">
   <img align="center" alt="Office" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Microsoft_Office_logo_%282013%E2%80%932019%29.svg">
   <img align="center" alt="Latex" height="40" width="40" src="https://www.svgrepo.com/show/306324/latex.svg">
@@ -63,7 +63,6 @@
   <img align="center" alt="Ubuntu" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg">
   <img align="center" alt="Windows" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg">
   <img align="center" alt="MacOS" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/22/MacOS_logo_%282017%29.svg">
-  <img align="center" alt="Android" height="40" width="40"src="https://cdn.worldvectorlogo.com/logos/android.svg">
   
 </div>
 
