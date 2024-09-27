@@ -83,13 +83,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 18 September 2024 - To: 25 September 2024
+From: 19 September 2024 - To: 26 September 2024
 
-Python     5 hrs 8 mins    █████████████████████░░░░   83.43 %
-JSON       32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
-XML        27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
-Markdown   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
-CSV        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+Python   4 hrs 31 mins   ████████████████████▓░░░░   82.95 %
+JSON     28 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
+XML      27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
 ```
 
 <!--END_SECTION:waka-->
