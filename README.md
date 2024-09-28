@@ -55,7 +55,6 @@
 <img align="center" alt="FastAPI" height="40" width="40"src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg">
 <img align="center" alt="Jupyter" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg">
 <img align="center" alt="MySQL" height="40" width="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
-<img align="center" alt="Tableau" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg">
 <img align="center" alt="AWS" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
 <img align="center" alt="Office" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Microsoft_Office_logo_%282013%E2%80%932019%29.svg">
 <img align="center" alt="Latex" height="40" width="40" src="https://www.svgrepo.com/show/306324/latex.svg">
