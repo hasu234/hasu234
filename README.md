@@ -82,13 +82,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 06 October 2024 - To: 13 October 2024
+From: 07 October 2024 - To: 14 October 2024
 
-Python       5 hrs 27 mins   ████████████████▒░░░░░░░░   65.93 %
-Markdown     59 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 %
-Text         32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.54 %
-Docker       27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.54 %
-Git Config   20 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 %
+Python       2 hrs 53 mins   ███████████████▓░░░░░░░░░   62.16 %
+Markdown     59 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.17 %
+INI          11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+Docker       10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 %
+Git Config   9 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 %
 ```
 
 <!--END_SECTION:waka-->
