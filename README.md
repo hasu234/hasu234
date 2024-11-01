@@ -82,13 +82,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 October 2024 - To: 30 October 2024
+From: 24 October 2024 - To: 31 October 2024
 
-Python   30 mins         ████████████████▒░░░░░░░░   65.61 %
-JSON     7 mins          ████░░░░░░░░░░░░░░░░░░░░░   16.53 %
-INI      7 mins          ████░░░░░░░░░░░░░░░░░░░░░   15.98 %
-HTML     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-Text     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+Python   30 mins         ████████████████████░░░░░   79.88 %
+JSON     7 mins          █████░░░░░░░░░░░░░░░░░░░░   20.12 %
 ```
 
 <!--END_SECTION:waka-->
