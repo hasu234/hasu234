@@ -82,13 +82,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 November 2024 - To: 05 December 2024
+From: 29 November 2024 - To: 06 December 2024
 
-Python       1 hr 53 mins    █████████████▓░░░░░░░░░░░   54.81 %
-Docker       54 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.00 %
-SSH Config   18 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.84 %
-JSON         9 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.72 %
-YAML         7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 %
+Python       1 hr 10 mins    ██████████████░░░░░░░░░░░   55.98 %
+Docker       20 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.84 %
+SSH Config   15 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.98 %
+JSON         9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 %
+YAML         7 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.09 %
 ```
 
 <!--END_SECTION:waka-->
