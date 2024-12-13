@@ -82,13 +82,10 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 December 2024 - To: 11 December 2024
+From: 05 December 2024 - To: 12 December 2024
 
-Docker       15 mins         ███████████▒░░░░░░░░░░░░░   44.74 %
-YAML         7 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.06 %
-Python       6 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.00 %
-SSH Config   4 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.09 %
-Markdown     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+Python       6 mins          ██████████████▓░░░░░░░░░░   59.05 %
+SSH Config   4 mins          ██████████▒░░░░░░░░░░░░░░   40.95 %
 ```
 
 <!--END_SECTION:waka-->
