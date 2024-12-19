@@ -68,9 +68,9 @@
 
 ---
 
-<div align="center">
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasu234&langs_count=8&layout=compact&theme=vue-dark&hide_border=true" />
-</div>
+<!-- <div align="center"> -->
+<!-- <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasu234&langs_count=8&layout=compact&theme=vue-dark&hide_border=true" /> -->
+<!-- </div> -->
 
 <div align="center">
 <img width="47%" src="https://github-readme-stats.vercel.app/api?username=hasu234&theme=vue-dark&count_private=true&show_icons=false&include_all_commits=true&hide_border=true" />
