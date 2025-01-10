@@ -83,11 +83,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 January 2025 - To: 08 January 2025
+From: 02 January 2025 - To: 09 January 2025
 
-Python   3 hrs 52 mins   ███████████████████████▒░   93.20 %
-JSON     16 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
+Python   7 hrs 43 mins   ████████████████████████░   96.47 %
+JSON     16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
