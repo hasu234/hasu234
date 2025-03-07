@@ -1,12 +1,25 @@
-<h1 align="center">Hi there 👋 I am Hasmot! 
-<!--   <img align="right" src="https://gpvc.arturio.dev/hasu234"/> </h1> -->
+<h1 align="center">👋 Hello, I'm Hasmot Ali</h1>
+<h3 align="center">ML Engineer | Researcher | Vision | LLM</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Computer+Vision;Large+Language+Model;Agentic+AI;Miltimodal+AI;3D+Reconstruction;Human+Activity+Recognition;Novel+View+Synthesis&center=true&width=380&height=45">
+</p>
+
+<div align="center">
+  <a href="https://twitter.com/last_train_23"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/hasmot-ali-hasu-29327b152/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://scholar.google.com/citations?hl=en&user=0urBAHYAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
+  <a href="https://orcid.org/0000-0002-8885-2501"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
+  <a href="mailto:hasmot23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+</div>
 
 ## About Me
 
-- Working as a Machine Learning Engineer.
-- Former Research Assistant.
-- I’m looking to collaborate with other Researchers!
-- I love to read, think, and walk!
+- 🚀 Working as a **Machine Learning Engineer**
+- 🔍 Former **Research Assistant** with publications in ML applications
+- 👯 Looking to collaborate on **research projects and open-source ML tools**
+- 📚 I love to read, think deeply, and take mindful walks
+- 🌱 Always learning and exploring new technologies in AI/ML
 
 ## Connect with me
 
@@ -20,63 +33,153 @@
 
 </div>
 
-## Languages and Tools
+## Tech Stack
 
-<div align="center">
-
-<p align="left"><b>Language: </b></p>
-<img align="center" alt="Python" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="C" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-<img align="center" alt="Java" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-<img align="center" alt="C++" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg">
-
-<p align="left"><b>ML Tools: </b></p>
-<img align="center" alt="numpy" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg">
-<img align="center" alt="pandas" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg">
-<img align="center" alt="seaborn" height="40" width="40" src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg">
-<img align="center" alt="matplotlib" height="40" width="40"src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg">
-<img align="center" alt="ScikitLearn" height="40" width="40"src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg">
-<img align="center" alt="PyTorch" height="40" width="40"src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg">
-<img align="center" alt="TensorFlow" height="40" width="40"src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg">
-<img align="center" alt="HuggingFace" height="40" width="40"src="https://cdn.worldvectorlogo.com/logos/huggingface-2.svg">
-
-<p align="left"><b>Web Tools: </b></p>
-<img align="center" alt="HTML" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/html-1.svg">
-<img align="center" alt="CSS" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
-<img align="center" alt="JavaScript" height="40" width="50" src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
-<img align="center" alt="PHP" height="40" width="40"src="https://www.vectorlogo.zone/logos/php/php-ar21.svg">
-<img align="center" alt="Django" height="40" width="40"src="https://cdn.worldvectorlogo.com/logos/django.svg">
-
-<p align="left"><b>Others Tools: </b></p>
-<img align="center" alt="Git" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg">
-<img align="center" alt="GitHub" height="40" width="40"src="https://www.svgrepo.com/show/217753/github.svg">
-<img align="center" alt="VSCode" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg">
-<img align="center" alt="Docker" height="40" width="40"src="https://cdn.worldvectorlogo.com/logos/docker-4.svg">
-<img align="center" alt="FastAPI" height="40" width="40"src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg">
-<img align="center" alt="Jupyter" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg">
-<img align="center" alt="MySQL" height="40" width="40" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg">
-<img align="center" alt="AWS" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg">
-<img align="center" alt="Office" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Microsoft_Office_logo_%282013%E2%80%932019%29.svg">
-<img align="center" alt="Latex" height="40" width="40" src="https://www.svgrepo.com/show/306324/latex.svg">
-
-<p align="left"><b>Platforms: </b></p>
-<img align="center" alt="Ubuntu" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/ubuntu-4.svg">
-<img align="center" alt="Windows" height="40" width="40" src="https://cdn.worldvectorlogo.com/logos/microsoft-windows-22.svg">
-<img align="center" alt="MacOS" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/2/22/MacOS_logo_%282017%29.svg">
-
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="48" height="48" alt="PyTorch" />
+      </a>
+      <br>PyTorch
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/tensorflow-2.svg" width="48" height="48" alt="TensorFlow" />
+      </a>
+      <br>TensorFlow
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit" />
+      </a>
+      <br>Scikit-Learn
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/huggingface-2.svg" width="48" height="48" alt="HuggingFace" />
+      </a>
+      <br>HuggingFace
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="Numpy" />
+      </a>
+      <br>NumPy
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+      </a>
+      <br>Pandas
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
+      </a>
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="48" height="48" alt="FastAPI" />
+      </a>
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="48" height="48" alt="AWS" />
+      </a>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.svgrepo.com/show/306324/latex.svg" width="48" height="48" alt="LaTeX" />
+      </a>
+      <br>LaTeX
+    </td>
+  </tr>
+<!--   <tr>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
+      </a>
+      <br>Django
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/fastapi-1.svg" width="48" height="48" alt="FastAPI" />
+      </a>
+      <br>FastAPI
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="48" height="48" alt="MySQL" />
+      </a>
+      <br>MySQL
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" width="48" height="48" alt="Git" />
+      </a>
+      <br>Git
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="48" height="48" alt="AWS" />
+      </a>
+      <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="https://www.svgrepo.com/show/306324/latex.svg" width="48" height="48" alt="LaTeX" />
+      </a>
+      <br>LaTeX
+    </td>
+  </tr> -->
+</table>
 
 ---
 
-<!-- <div align="center"> -->
-<!-- <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasu234&langs_count=8&layout=compact&theme=vue-dark&hide_border=true" /> -->
-<!-- </div> -->
+## GitHub Stats
 
 <div align="center">
-<img width="47%" src="https://github-readme-stats.vercel.app/api?username=hasu234&theme=vue-dark&count_private=true&show_icons=false&include_all_commits=true&hide_border=true" />
-<img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=hasu234&theme=vue-dark&hide_border=true" />
-<img width="47%" src="https://streak-stats.demolab.com/?user=hasu234&theme=vue-dark&hide_border=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasu234&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hasu234&theme=vue-dark&hide_border=true" />
+  <img width="47%" src="https://streak-stats.demolab.com/?user=hasu234&theme=vue-dark&hide_border=true" />
 </div>
+
 
 ---
 
