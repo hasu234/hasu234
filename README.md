@@ -186,7 +186,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 May 2025 - To: 31 May 2025
+From: 25 May 2025 - To: 01 June 2025
 
 Python   5 hrs 59 mins   ██████████████████▒░░░░░░   73.67 %
 Bash     1 hr 11 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.57 %
