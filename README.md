@@ -186,12 +186,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2025 - To: 09 September 2025
+From: 03 September 2025 - To: 10 September 2025
 
-Python   5 hrs 23 mins   ███████████████████████▓░   94.58 %
-JSON     15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
-Text     2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 %
+Python     5 hrs 39 mins   ███████████████████████▓░   94.01 %
+JSON       15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
+Markdown   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.86 %
+Text       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Other      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 %
 ```
 
 <!--END_SECTION:waka-->
