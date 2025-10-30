@@ -186,11 +186,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 October 2025 - To: 28 October 2025
+From: 22 October 2025 - To: 29 October 2025
 
-JSON     2 hrs 56 mins   ██████████████▒░░░░░░░░░░   56.89 %
-Python   2 hrs 11 mins   ██████████▓░░░░░░░░░░░░░░   42.12 %
-Bash     3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
+Python   2 hrs 21 mins   ████████████▒░░░░░░░░░░░░   48.98 %
+JSON     2 hrs 13 mins   ███████████▓░░░░░░░░░░░░░   46.22 %
+Bash     13 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
 ```
 
 <!--END_SECTION:waka-->
