@@ -186,13 +186,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 04 November 2025 - To: 11 November 2025
+From: 05 November 2025 - To: 12 November 2025
 
-Python       6 hrs 47 mins   █████████████████████░░░░   83.38 %
-Text         28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.77 %
-JSON         28 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.76 %
-Markdown     11 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
-Git Config   10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+Python       6 hrs 57 mins   █████████████████████░░░░   84.54 %
+JSON         46 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
+Text         22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+Git Config   3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Bash         2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
