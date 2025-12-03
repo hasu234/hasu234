@@ -186,13 +186,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 November 2025 - To: 30 November 2025
+From: 24 November 2025 - To: 01 December 2025
 
-Python       2 hrs 8 mins    ███████████░░░░░░░░░░░░░░   44.49 %
-Markdown     1 hr 47 mins    █████████▒░░░░░░░░░░░░░░░   37.20 %
-Bash         18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.49 %
-TOML         9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
-Text         8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
+Python       2 hrs 27 mins   ██████████████▓░░░░░░░░░░   58.22 %
+Markdown     1 hr 10 mins    ███████░░░░░░░░░░░░░░░░░░   27.74 %
+Bash         18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.18 %
+Text         8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
+CSV          6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
 ```
 
 <!--END_SECTION:waka-->
