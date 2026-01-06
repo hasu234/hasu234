@@ -186,13 +186,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2025 - To: 04 January 2026
+From: 29 December 2025 - To: 05 January 2026
 
-Python       3 hrs 21 mins   ████████████▓░░░░░░░░░░░░   50.92 %
-JSON         1 hr 36 mins    ██████░░░░░░░░░░░░░░░░░░░   24.27 %
-Other        1 hr 11 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.01 %
-TypeScript   19 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 %
-Text         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+Python       3 hrs 43 mins   ████████████░░░░░░░░░░░░░   48.03 %
+JSON         2 hrs 22 mins   ███████▓░░░░░░░░░░░░░░░░░   30.61 %
+Other        1 hr 11 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.40 %
+TypeScript   19 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+Text         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
 ```
 
 <!--END_SECTION:waka-->
