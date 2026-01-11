@@ -7,7 +7,7 @@
 
 <div align="center">
   <a href="https://twitter.com/last_train_23"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
-  <a href="https://www.linkedin.com/in/hasmot-ali-hasu-29327b152/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/hasmotali234/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://scholar.google.com/citations?hl=en&user=0urBAHYAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white" alt="Google Scholar"></a>
   <a href="https://orcid.org/0000-0002-8885-2501"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID"></a>
 <!--   <a href="mailto:hasmot23@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a> -->
@@ -175,9 +175,9 @@
 ## GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasu234&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" />
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hasu234&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" /> -->
 <!--   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hasu234&theme=vue-dark&hide_border=true" /> -->
-<!--   <img width="47%" src="https://streak-stats.demolab.com/?user=hasu234&theme=vue-dark&hide_border=true" /> -->
+  <!-- <img width="47%" src="https://streak-stats.demolab.com/?user=hasu234&theme=vue-dark&hide_border=true" /> -->
 </div>
 
 
@@ -214,3 +214,4 @@ Bash         15 mins         ▓░░░░░░░░░░░░░░░░
 [scholar]: https://scholar.google.com/citations?hl=en&user=0urBAHYAAAAJ
 [orcid]: https://orcid.org/0000-0002-8885-2501
 [mail]: mailto:hasmot23@gmail.com
+
